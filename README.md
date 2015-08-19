@@ -1,4 +1,4 @@
-# appgradletest
+# AppGradleTest
 
 Aplicativo de exemplo sobre Gradle para Android.
 
