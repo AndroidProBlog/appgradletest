@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppGradleTest</string>
+
+    <string name="hello_world">Hello world Full!</string>
+    <string name="action_settings">Settings</string>
+    <string name="button2">Demo</string>
+</resources>
